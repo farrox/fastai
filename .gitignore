@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+llama_or_alpaca/alpaca_animal/
+
+llama_or_alpaca/llama_animal/
