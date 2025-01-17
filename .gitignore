@@ -173,3 +173,11 @@ cython_debug/
 llama_or_alpaca/alpaca_animal/
 
 llama_or_alpaca/llama_animal/
+
+*.jpg
+
+*.png
+
+*.jpeg
+
+*.jpg!d
